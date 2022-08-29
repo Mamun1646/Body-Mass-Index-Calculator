@@ -1,0 +1,16 @@
+Step 1
+Find the functions
+Step 2
+bind funtions to EventListener
+Step 3
+Find Variables and Data 
+Step 4
+Implement calculation BMI
+Step 5
+Implement show message functions
+Step 6
+Implement Reset functions
+Step 7
+Implement Event handler
+Step 8
+Make The Implement Bug Free
