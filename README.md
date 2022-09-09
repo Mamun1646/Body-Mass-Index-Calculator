@@ -2,6 +2,7 @@
 # Body Mass Index Calculator Using Vanilla Javascript
 I build Body Mass Index Calculator using HTML, CSS ,Vanilla Js .To view this project just click on the 
 URL :  https://mamun1646.github.io/Body-Mass-Index-Calculator/
+Another URL : https://body-mass-index-bmi-calculator.netlify.app/
 
 
 
